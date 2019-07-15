@@ -35,7 +35,7 @@ def equals():
         result=round(float(eval(expression)),5)
         text_var.set(result)
      except:
-             print("invalid operation")
+             text_var.set("invalid operation")
 def sqr_root():
         
         expression=float(text_var.get())
