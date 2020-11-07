@@ -6,4 +6,4 @@
 2. ttkthemes
 
 
-![](https://github.com/shazx06/calculator_using_tkinter/calc.png)
+![img](https://github.com/shazx06/calculator_using_tkinter/blob/master/calc.png)
