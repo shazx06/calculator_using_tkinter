@@ -1,9 +1,12 @@
 # calculator_using_tkinter
 
-## Requirements
+### Requirements
 
-1. python-tk
-2. ttkthemes
+-  python-tk
+-  ttkthemes
+
+<br>
+<br>
 
 
 ![img](https://github.com/shazx06/calculator_using_tkinter/blob/master/calc.png)
